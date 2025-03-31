@@ -56,7 +56,7 @@ echo "              Mengkonfigurasi database              "
 echo "===================================================="
 nama_database="prestashop_db"
 DB_USER="sample"
-DB_PASS="rann"
+DB_PASS="test"
 service mariadb start
 service mysql start
 
