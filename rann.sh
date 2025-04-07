@@ -55,8 +55,8 @@ echo "              Mengkonfigurasi database              "
 
 echo "===================================================="
 nama_database="prestashop_db"
-DB_USER="sample"
-DB_PASS="test"
+DB_USER="zahran"
+DB_PASS="zahrann"
 service mariadb start
 service mysql start
 
@@ -70,7 +70,7 @@ check_error "Gagal Mengkonfigurasi Database!"
 # install web prestashop
 echo "===================================================="
 
-echo "          MengDownload prestashop_8.2.0.zip         "
+echo "          MenDownload prestashop_8.2.0.zip         "
 
 echo "===================================================="
 
